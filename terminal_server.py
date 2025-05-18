@@ -66,4 +66,4 @@ if  __name__ == "__main__":
         mcp.run(transport="stdio")
     except Exception as e:
         import traceback
-        print("🚨 MCP server crashed:\n", traceback.format_exc(), flush=True)
+        print("MCP server crashed:\n", traceback.format_exc(), flush=True)
