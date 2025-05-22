@@ -9,7 +9,7 @@ This project demonstrates how to use [LangChain](https://www.langchain.com/) age
 ## What This Repo Shows
 
 - LangChain agent with structured tool calling (not ReAct)
-- MCP tools registered in a separate `terminal_server.py`
+- MCP tools registered in a separate `mcp_server.py`
 - Communication between LangChain and tool server via **STDIO**
 - Async execution using `asyncio` and `ClientSession`
 - Agent asks: “What is the currency, capital, and language of India?” → Tools are called individually to fetch each answer
