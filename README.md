@@ -18,7 +18,7 @@ This project demonstrates how to use [LangChain](https://www.langchain.com/) age
 
 What the Agent Does
 
-Loads the following tools from terminal_server.py:
+Loads the following tools from mcp_server.py:
 findcurrency
 findcapital
 findlanguage
