@@ -62,5 +62,5 @@ English, Hindi, TamilAction:
 > Finished chain.
 The currency of India is the Indian rupee. The capital of India is New Delhi. The languages of India include English, Hindi, and Tamil.
 
-Key learning
-tructured tool calling	Uses create_structured_chat_agent with OpenAI-compatible models . It was not working with simple react prompt  because of the output parsing . Langchian was not able to make a function call .
+## Key learning
+Structured tool calling	Uses "create_structured_chat_agent" with OpenAI-compatible models . It was not working with simple react prompt  because of the output parsing . Langchian was not able to make a function call .
